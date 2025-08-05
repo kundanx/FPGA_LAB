@@ -2,4 +2,4 @@
 This is a behavorial RTL model of simple 8 bit RSIC processor. 
 
 # Output waveforms
-![Alt Text](Images\waveforms.png)
+![Alt Text](8bit-RSIC-Processor\Images\waveforms.png)
